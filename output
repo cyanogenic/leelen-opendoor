@@ -1,0 +1,21 @@
+{
+    "header": {
+        "appName": "LL_ESAFE",
+        "dateTime": "1712499027321",
+        "user": "admin",
+        "language": "ZH_CN",
+        "serviceName": "getClientInfo",
+        "versionId": "v0.1",
+        "token": null
+    },
+    "body": {
+        "token": "a230aba7-2038-4c8a-8bda-168c2102f8e2",
+        "accessToken": null,
+        "refreshToken": null,
+        "websocketIp": "192.168.4.200"
+    },
+    "result": {
+        "code": 200,
+        "message": "操作成功！"
+    }
+}
