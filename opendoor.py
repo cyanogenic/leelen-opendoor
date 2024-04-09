@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import configparser
 import json
 import os
